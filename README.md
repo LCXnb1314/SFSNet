@@ -11,34 +11,7 @@
 
 <br/>
 
-<table style="margin: 0 auto;">
-<tr>
-<td align="center">
-<br/>
-
-🔍<br/>**Small-Scale Targets**<br/><sub>Shadow-robust detection</sub>
-
-</td>
-<td align="center">
-<br/>
-
-📐<br/>**Scale-Varying Regions**<br/><sub>Multi-scale weighting</sub>
-
-</td>
-<td align="center">
-<br/>
-
-✂️<br/>**Complex Boundaries**<br/><sub>Low-contrast refinement</sub>
-
-</td>
-<td align="center">
-<br/>
-
-🌊<br/>**Spatial-Frequency**<br/><sub>FFT collaboration</sub>
-
-</td>
-</tr>
-</table>
+🔍 Small-Scale Targets &nbsp;&nbsp;|&nbsp;&nbsp; 📐 Scale-Varying Regions &nbsp;&nbsp;|&nbsp;&nbsp; ✂️ Complex Boundaries &nbsp;&nbsp;|&nbsp;&nbsp; 🌊 Spatial-Frequency Collaboration
 
 </div>
 
@@ -58,12 +31,17 @@
 
 ## 📰 Paper Information
 
-| | |
-|:---:|:---|
-| 📄 **Title** | Scale-aware Fusion and Spatial-Frequency Collaborative Network for Remote Sensing Imagery Semantic Segmentation |
-| 🏛️ **Journal** | IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**) |
-| 📅 **Year** | 2026 |
-| 👥 **Authors** | Lu Wang, Chenxu Lou, Jing Wang, Junbo Yu, Lihua Zhao, Wenbin Wang, Dong Ren |
+<div align="center">
+
+**📄 Title**  
+*Scale-aware Fusion and Spatial-Frequency Collaborative Network for Remote Sensing Imagery Semantic Segmentation*
+
+**🏛️ Journal**  
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**)
+
+**📅 Year** — 2026 &nbsp;&nbsp;|&nbsp;&nbsp; **👥 Authors** — Lu Wang, Chenxu Lou, Jing Wang, Junbo Yu, Lihua Zhao, Wenbin Wang, Dong Ren
+
+</div>
 
 ---
 
