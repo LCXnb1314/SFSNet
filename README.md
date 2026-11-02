@@ -1,19 +1,9 @@
 <div align="center">
 
-<!-- 🌈 Top Banner -->
-<div style="background: linear-gradient(135deg, #0f766e 0%, #0891b2 50%, #1e40af 100%); padding: 45px 30px; border-radius: 20px; color: white; margin-bottom: 25px; box-shadow: 0 10px 40px rgba(8,145,178,0.3);">
+<!-- 🌈 Top Banner Image -->
+<img src="figures/banner.png" alt="SFSNet Banner" width="100%"/>
 
-# 🛰️ SFSNet
-
-### 🌐 Scale-aware Fusion and Spatial-Frequency Collaborative Network
-
-**Remote Sensing Imagery Semantic Segmentation**
-
-<br/>
-
-🔍 Small-Scale Targets &nbsp;&nbsp;|&nbsp;&nbsp; 📐 Scale-Varying Regions &nbsp;&nbsp;|&nbsp;&nbsp; ✂️ Complex Boundaries &nbsp;&nbsp;|&nbsp;&nbsp; 🌊 Spatial-Frequency Collaboration
-
-</div>
+<br/><br/>
 
 <!-- 🏷️ Badges -->
 
@@ -92,7 +82,8 @@ SFSNet/
 ├── 🧠 model/
 │   └── SFSNet.py             # SFSNet model implementation
 └── 🖼️ figures/
-    └── motivation.png        # Motivation visualization figure
+    ├── banner.png             # README top banner
+    └── motivation.png         # Motivation visualization figure
 ```
 
 ---
