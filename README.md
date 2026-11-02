@@ -73,7 +73,7 @@ High-resolution remote sensing imagery presents unique challenges for semantic s
 
 <div align="center">
 
-![Motivation](https://aka.doubaocdn.com/s/SoX4CChr3p)
+![Motivation](figures/motivation.png)
 
 <i>Fig. 1. Motivation visualization. Compared with traditional methods, SFSNet achieves more focused attention on small-scale shadow-obscured targets, better weighting in scale-varying regions, and refined boundary attention in low-contrast areas.</i>
 
@@ -109,10 +109,12 @@ SFSNet addresses these challenges through two core designs:
 
 ```
 SFSNet/
-├── 📄 README.md          # This file
-├── 📄 LICENSE            # MIT License
-└── 🧠 model/
-    └── SFSNet.py         # SFSNet model implementation
+├── 📄 README.md              # This file
+├── 📄 LICENSE                # MIT License
+├── 🧠 model/
+│   └── SFSNet.py             # SFSNet model implementation
+└── 🖼️ figures/
+    └── motivation.png        # Motivation visualization figure
 ```
 
 ---
